@@ -747,6 +747,8 @@ Neidfaktor
 Neuinfektion
 Neuinfektionen
 Niereninfektionen
+Norfuk
+Norfuk_Ailen
 Norovirusinfektion
 Norovirusinfektionen
 Nuklearfaktor
@@ -1099,6 +1101,9 @@ boldfaces
 boldfacing
 boniface
 bonifaces
+carfukes
+chifukwa
+cifuku
 confect
 confecting
 confection
@@ -1114,6 +1119,7 @@ confucian
 confucianism
 confucians
 confucius
+daifuku
 delirifacient
 desinfektionsmittelgetränkt
 desinfektionsmittelgetränkte
@@ -1131,6 +1137,7 @@ disinfections
 disinfects
 dogface
 dogfaces
+enbifuku
 enface
 face
 face off
@@ -1193,6 +1200,7 @@ fünfeckigem
 fünfeckigen
 fünfeckiger
 fünfeckiges
+hifukagaku
 hochinfektiös
 hochinfektiöse
 hochinfektiösem
@@ -1204,6 +1212,7 @@ holyfuck
 i fucked up
 if u moved the queen i was planning Nxh6
 if you
+ifuku
 imperfect
 imperfectability
 imperfection
@@ -1298,6 +1307,9 @@ interfakultativem
 interfakultativen
 interfakultativer
 interfakultatives
+kaifuku
+karfuke
+kifuko
 konfektioniere
 konfektionieren
 konfektionierend
@@ -1315,6 +1327,9 @@ konfektionierter
 konfektioniertes
 konfektioniertest
 konfektioniertet
+kungfukennyy
+körfuknattleiksþjálfari
+körfuknattleikur
 liquefacient
 liquefaction
 liquefactions
@@ -1328,6 +1343,8 @@ manufacturer
 manufacturers
 manufactures
 manufacturing
+menfukurō
+mifuko
 mother
 multifaced
 multifaceted
@@ -1345,6 +1362,7 @@ multifokalen
 multifokaler
 multifokales
 multiinfection
+ninchitekifukyōwa
 nonfactual
 nonfactually
 noninfectious
@@ -1448,6 +1466,7 @@ refocuses
 refocusing
 refocussed
 refocussing
+reifuku
 reinfect
 reinfected
 reinfecting
@@ -1462,6 +1481,10 @@ resurface
 resurfaced
 resurfaces
 resurfacing
+rifuko
+seifuku
+seifuku_gumi
+shifuku
 stupefacient
 stupefaction
 stupefactive
@@ -1485,6 +1508,9 @@ trifocals
 tufaceous
 typeface
 typefaces
+ufukara
+ufuko
+ufukwe
 unaffected
 unaffectedly
 undersurface
@@ -1501,6 +1527,7 @@ unmanufactured
 unperfected
 unsatisfactorily
 unsatisfactory
+vifuko
 vorkonfektioniert
 vorkonfektionierte
 vorkonfektioniertem
@@ -1510,6 +1537,7 @@ vorkonfektioniertes
 wheyface
 wheyfaces
 wordperfect
+yofukashi
 your faces
 your feces
 Überfokussierung
