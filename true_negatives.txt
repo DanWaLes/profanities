@@ -1139,6 +1139,7 @@ dogface
 dogfaces
 enbifuku
 enface
+f3
 face
 face off
 faced
@@ -1161,12 +1162,25 @@ fc
 feccos
 feces you
 fed
+feder
 fee
 feer
 feet
+fen you
+fend
+fenr
 fer
 fet
+ff3
 fiet
+figer
+fin you
+find
+finds
+finer
+fingeerrs
+fingr
+fit
 fo
 focus
 for
