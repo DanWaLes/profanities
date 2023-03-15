@@ -587,6 +587,8 @@ Konfektionsformen
 Konfektionsgeschäft
 Konfektionsgeschäfte
 Konfektionsgeschäften
+Konfektionsgeschäftes
+Konfektionsgeschäfts
 Konfektionsgröße
 Konfektionsgrößen
 Konfektionshaus
@@ -1101,6 +1103,7 @@ boldfaces
 boldfacing
 boniface
 bonifaces
+bublifuk
 carfukes
 chifukwa
 cifuku
@@ -1221,9 +1224,7 @@ hochinfektiösem
 hochinfektiösen
 hochinfektiöser
 hochinfektiöses
-holy fuck
 holyfuck
-i fucked up
 if u moved the queen i was planning Nxh6
 if you
 ifuku
@@ -1522,9 +1523,11 @@ trifocals
 tufaceous
 typeface
 typefaces
+ufuk
 ufukara
 ufuko
 ufukwe
+ufuq
 unaffected
 unaffectedly
 undersurface
